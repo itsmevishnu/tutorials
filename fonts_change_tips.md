@@ -1,5 +1,5 @@
 ## How to change the Font of your personal website
-Many times it is required to change the font of our websites to make it more attractive. So this is a document will expaline one method to do so.
+Many times it is required to change the font of our websites to make it more attractive. So this is a document that will expaline one of the easiest methods.
 Before going to the shortcut method, you can go little deeper about web fonts [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts).
 
 #### So, the shortcut - most of the time I follow this method,
